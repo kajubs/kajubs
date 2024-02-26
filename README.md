@@ -1,4 +1,7 @@
 # kajubs
-##IFPR
-###3 TTec.Informatica
+## Julia Eduarda Da Rosa
+## IFPR
+* 3° Tecnico Informatica
+* Best aluna
+
  
